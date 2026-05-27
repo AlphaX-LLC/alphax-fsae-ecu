@@ -2,7 +2,9 @@ Subject: [Open Source] AlphaX FSAE ECU - Race-proven design from PUPR's 2026 Sea
 
 Hey everyone!
 
-We are excited to share the full EasyEDA design files for the AlphaX FSAE ECU used by the Polytechnic University of Puerto Rico (Car #36) during the 2026 season. This specific hardware revision successfully completed the grueling endurance event, proving its reliability on the track!
+We are AlphaX, an automotive electronics design and hardware company based in Puerto Rico. We are passionate about supporting student engineering, which is why we sponsored the design and hardware for the Polytechnic University of Puerto Rico (Car #36) during their 2026 season.
+
+We are excited to share the full EasyEDA design files for that ECU! This specific hardware revision successfully completed the grueling endurance event, proving its reliability on the track.
 
 Key features of this ECU:
 - Fully compatible with rusEFI firmware (AlphaX is a main contributor!).
@@ -10,6 +12,9 @@ Key features of this ECU:
 - **Hardware Drivers:** 4 Injector channels and 2 Ignition channels at the main connector, with an additional 2 Ignition channels available on the PCB.
 - Hardware support for Electronic Throttle Body (ETB) - though the 2026 test car ran without it.
 - Routing was primarily handled by Electra v8 for high-density efficiency.
+
+**New to Tuning?**
+If you're a student or hobbyist looking to sharpen your skills before touching a real engine, check out our tuning simulator at [www.tunersim.com](https://www.tunersim.com). It provides a realistic environment to learn and practice tuning concepts.
 
 **Support & Consulting:**
 We are happy to see this design help other teams! If you decide to use this ECU and require professional support for integration or custom modifications, we offer billable consulting services at $150/hr. We are open to both direct payment and sponsorship-based arrangements. 
