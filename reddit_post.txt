@@ -7,12 +7,14 @@ We are excited to share the full EasyEDA design files for the AlphaX FSAE ECU us
 Key features of this ECU:
 - Fully compatible with rusEFI firmware (AlphaX is a main contributor!).
 - Designed to work with the AlphaX Brainboard (STM32F407) or equivalent daughterboards.
+- **Hardware Drivers:** 4 Injector channels and 2 Ignition channels at the main connector, with an additional 2 Ignition channels available on the PCB.
 - Hardware support for Electronic Throttle Body (ETB) - though the 2026 test car ran without it.
 - Routing was primarily handled by Electra v8 for high-density efficiency.
 
-We believe in open-source hardware and want to give back to the FSAE community. Whether you're a student team looking for a solid foundation or a hobbyist interested in engine management, feel free to check out the design!
+**Support & Consulting:**
+We are happy to see this design help other teams! If you decide to use this ECU and require professional support for integration or custom modifications, we offer billable consulting services at $150/hr. We are open to both direct payment and sponsorship-based arrangements. 
 
-GitHub Repository: [Link to your repo here]
+GitHub Repository: https://github.com/AlphaX-LLC/alphax-fsae-ecu
 
 Hardware used: 
 AlphaX Brainboard: https://alphaxpr.com/products/alphaecu-brainboard-stm32f407-rusefi-daughterboard

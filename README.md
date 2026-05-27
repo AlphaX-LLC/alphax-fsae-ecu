@@ -9,10 +9,21 @@ This repository contains the EasyEDA schematic and PCB design files for an FSAE 
 - **Firmware Compatibility:** Designed for [rusEFI](https://rusefi.com/) firmware. AlphaX is a proud contributor to the rusEFI project.
 - **Hardware Requirement:** This ECU is designed to be used with the [AlphaX Brainboard (STM32F407 rusEFI daughterboard)](https://alphaxpr.com/products/alphaecu-brainboard-stm32f407-rusefi-daughterboard) or a compatible equivalent.
 
-## Design Notes
+## Hardware Specifications
 
+- **Injector Drivers:** 4 channels available at the main connector.
+- **Ignition Drivers:**
+  - 2 channels available at the main connector.
+  - 2 additional channels available via through-hole pads on the PCB.
 - **Electronic Throttle Body (ETB) Support:** While the hardware supports ETB, it is important to note that the test car (PUPR #36) was **not** using ETB during the 2026 season.
-- **Routing:** Most of the PCB routes were generated using the **Electra v8** auto-router.
+
+## Support & Consulting
+
+While this project is open-source, dedicated engineering support and consulting for integration, tuning, or hardware modifications are **billable**. 
+
+- **Rate:** $150/hr (Suggested professional rate, adjustable based on scope).
+- **Payment:** We accept direct payment or sponsorship credits.
+- If your team or company requires professional assistance, please contact AlphaX for a formal quote.
 
 ## How to Open in EasyEDA
 
